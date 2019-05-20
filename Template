@@ -1,0 +1,66 @@
+<!-- Header Reiko Garcia, Index.html Photography -->
+<header class="w3-display-container w3-content w3-center" style="max-width:1500px">
+  <img src="https://j7tuaq.dm.files.1drv.com/y4mz4gGEtIfuPyBkGTrq-euTahKnzJyWefWPiFpRTOvfA2ZU92FkwsNBdKY7Xpm-NPsmHlV0e0om-VsgjDgvcO9FHCFUM3xeqhHnJ-CCmHRcNwHPmPr4hLFmnM8DqHKceLMzuagRRHt84B1G4eXgkQoHvJxyqYQ6Xrbz00wzWIbz1gHPjO9XrL6jzk4xP8u-Tzptxs9yLGxYCsBgy3vVwRrNA?width=400&height=71&cropmode=none" alt="Logo" width="1000" height="91" />
+    <img src="https://ibqe4q.dm.files.1drv.com/y4mpMiSsM2LhI30ddXIPE6cPXYVCX8y_WpxZyjS39lYMavEmFIvmorhOKloR_MQlolXRkNBHG_jbQ074rMSTbQFOEp8VFRwnY2a-8YutoTaXIeM0gzID-fwiuVijAznqwHSktpHfgc8Dv4kpDYnWcEL1z5ZzTpvDWi_K1dd07GLb7l7NC4HIIg10hT-3FIkXqrclQsqS_ff-U-VJCQoiso4xA?width=256&height=171&cropmode=none" alt="VW" width="500" height="400" />
+  <div class="w3-display-middle w3-padding-large w3-border w3-wide w3-text-light-grey w3-center">
+    <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">Reiko Garcia</h1>
+    <h5 class="w3-hide-large" style="white-space:nowrap">Los Angeles, California</h5>
+    <h3 class="w3-hide-medium w3-hide-small">PHOTOGRAPHER</h3>
+  </div>
+  
+  <!-- Navbar (placed at the bottom of the header image) -->
+  <div class="w3-bar w3-light-grey w3-round w3-display-bottommiddle w3-hide-small" style="bottom:-16px">
+    <a href="#" class="w3-bar-item w3-button">Home</a>
+    <a href="#portfolio" class="w3-bar-item w3-button">Portfolio</a>
+    <a href="#contact" class="w3-bar-item w3-button">Contact</a>
+  </div>
+</header>
+
+<!-- Navbar on small screens -->
+<div class="w3-center w3-light-grey w3-padding-16 w3-hide-large w3-hide-medium">
+<div class="w3-bar w3-light-grey">
+  <a href="#" class="w3-bar-item w3-button">Home</a>
+  <a href="#portfolio" class="w3-bar-item w3-button">Portfolio</a>
+  <a href="#contact" class="w3-bar-item w3-button">Contact</a>
+</div>
+</div>
+<!-- Page content -->
+<div class="w3-content w3-padding-large w3-margin-top" id="portfolio">
+
+  <!-- Images (Portfolio) -->
+  <img src="https://ibtcaq.dm.files.1drv.com/y4m5934-f_XqOYbHH1spv_JCXp10oD-fhijwUULrTOWb8dUwsyb61kOx-wMOcRXOhX6jvTe-ZndpBBaPvYCzvwYcqbdmcwFsd7dNzNG5ZRsvV_PVVH_DG5MhJohH4qSLljxPrkEoU1IgYbzw7BNH5fGNPi8i4aYVvJ3bZtrarQSUtUksIW4DJttNLIbSXLoxPHvOSn4n3TcnJREfqv0tEKUsA?width=640&amp;height=428&amp;cropmode=none" alt="My Girls" class="w3-image" width="1000" height="500">
+  <img src="https://ibtzaq.dm.files.1drv.com/y4mkSmcQl89cTyi3NBu1PTMeR81QgfkvswCeLr1EJCT_DSnpUE8IC3gSsQoRWM7lR8p7EhBSNqCpk01tqrLh6r_A-6GkWIv3gmzgF24tBTxAeFsRoRw7KtX6r1cq77RPX8JSIMwrnli13LvfNPiMswZnmR8-2Ua2JiJ59Wr2uqxAUjF4qFfli6EE20bj6fJ0XtX2kq5SsILQPt-yI4Q2D5cEg?width=3024&height=4032&cropmode=none" alt="Granddaughter" class="w3-image w3-margin-top" width="1000" height="500">
+  <img src="https://jrtvaq.dm.files.1drv.com/y4mfaqiAjhBXATsZ-G9z0pgw9A94l3gkCxDorNJfFkUJvyzQh4ftp-QurBBGayXPT5Fxn8YAHJBzmCUEAJnrtsGLoa7BJ6jOzg_-0NhSbV6dvMcpYULSAtyl3D32o8nCC9DxVwaQCzg4vOdQUljDoGwMOy09VaY33RQkeVB-ikf8TfTrtKOq7-j-n5r7DY098SFMtIJrIORymb7Ynm_as33ag?width=640&height=631&cropmode=none" alt="sunset" class="w3-image w3-margin-top" width="1000" height="500">
+  <img src="https://ucgagq.dm.files.1drv.com/y4mZhbkclYhVaOqaMSiRNzh9WGixKmvjvChfyGWG4NNR1JCTBZfYOgNqD0SMLabrEsTWW1Y9WOVH1vA-HgoT5U2dQbV6MIeM6wvvFoR06Hi9iWrByuraCO1nPsHJDLFfS2BPqjNK7tDK5qKzpk6BcMQIdpnYzEcLcRUCnpHV581bqydQ9vSPIgHmdZGUIbMuAiLsy7z0_0c7RxcoDxZN6SQPA?width=1080&height=790&cropmode=none" alt="VWSmile" class="w3-image w3-margin-top" width="1000" height="500">
+  <img src="https://hrqeda.dm.files.1drv.com/y4mDjFuRjwRLOdOg6IdF4C9W-W4OQcl8X-TAQiZbUaLy182ZrKftrt7aPmIt6AsXBkrVmGpSf13nft_qM6kntwHbE1LGa1APTDWxQQOnh9R9F-oOMMCS6r8M2WeQNeeG5qhJMnlZNjkmUpWUsCPoXoDW8C75h4-pDrfOdDUPZr3hJWUci3LbZcJIsDRW66RxO556HrhOaXHuD63QJ-cTBvWOA?width=3600&height=2800&cropmode=none" alt="Pregs" class="w3-image w3-margin-top" width="1000" height="500">
+
+  <!-- Contact -->
+  <div class="w3-light-grey w3-padding-large w3-padding-32 w3-margin-top" id="contact">
+    <h3 class="w3-center">Contact</h3>
+    <hr>
+    <p>Please feel free to contact me any time. If you would like to be added to our email list for promotions or events in your area, please submit your informaiton here. Thank you for your business.</p>
+
+    <form action="/action_page.php" target="_blank">
+      <div class="w3-section">
+        <label>Name</label>
+        <input class="w3-input w3-border" type="text" required name="Name">
+      </div>
+      <div class="w3-section">
+        <label>Email</label>
+        <input class="w3-input w3-border" type="text" required name="Email">
+      </div>
+      <div class="w3-section">
+        <label>Message</label>
+        <input class="w3-input w3-border" required name="Message">
+      </div>
+      <button type="submit" class="w3-button w3-block w3-dark-grey">Send</button>
+    </form><br>
+    <p>2019 Powered by <a href="https:/dandcconcept.com" target="_blank" class="w3-hover-text-green">dandcconcept</a></p>
+
+  </div>
+
+<!-- End page content -->
+</div>
+
+</body>
+</html>
